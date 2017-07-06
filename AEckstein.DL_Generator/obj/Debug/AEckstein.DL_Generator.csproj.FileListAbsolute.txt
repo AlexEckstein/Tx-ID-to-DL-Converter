@@ -1,0 +1,10 @@
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\bin\Debug\AEckstein.DL_Generator.exe.config
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\bin\Debug\AEckstein.DL_Generator.exe
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\bin\Debug\AEckstein.DL_Generator.pdb
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\AEckstein.DL_Generator.csprojResolveAssemblyReference.cache
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\AEckstein.DL_Generator.Properties.Resources.resources
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\AEckstein.DL_Generator.csproj.GenerateResource.Cache
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\AEckstein.DL_Generator.exe
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\AEckstein.DL_Generator.pdb
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\AEckstein.DL_Generator.AboutInterface.resources
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\AEckstein.DL_Generator.UserInterface.resources

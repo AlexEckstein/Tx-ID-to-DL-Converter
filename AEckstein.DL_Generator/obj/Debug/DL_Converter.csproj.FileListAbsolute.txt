@@ -1,0 +1,13 @@
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\bin\Debug\DL_Converter.exe.config
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\bin\Debug\DL_Converter.exe
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\bin\Debug\DL_Converter.pdb
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\DL_Converter.csprojResolveAssemblyReference.cache
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\DL_Converter.Properties.Resources.resources
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\DL_Converter.csproj.GenerateResource.Cache
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\DL_Converter.exe
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\DL_Converter.pdb
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\DL_Converter.AboutInterface.resources
+C:\Users\stack\Desktop\AEckstein.LiveWatch\AEckstein.DL_Generator\AEckstein.DL_Generator\obj\Debug\DL_Converter.UserInterface.resources
+C:\Users\stack\Documents\GitHub\Tx-ID-to-DL-Converter\AEckstein.DL_Generator\bin\Debug\DL_Converter.exe.config
+C:\Users\stack\Documents\GitHub\Tx-ID-to-DL-Converter\AEckstein.DL_Generator\obj\Debug\DL_Converter.exe
+C:\Users\stack\Documents\GitHub\Tx-ID-to-DL-Converter\AEckstein.DL_Generator\obj\Debug\DL_Converter.pdb
